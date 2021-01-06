@@ -5,3 +5,6 @@
 
 1/5/2021:
 - Finished 3rd module "Getting started with smart contracts"
+
+1/6/2021:
+- Started 4th module "Solidity programming language"
