@@ -8,3 +8,6 @@
 
 1/6/2021:
 - Started 4th module "Solidity programming language"
+
+1/7/2021:
+- Continued with 4th module, procured some ETH from a test net faucet to use for development
