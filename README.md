@@ -11,3 +11,6 @@
 
 1/7/2021:
 - Continued with 4th module, procured some ETH from a test net faucet to use for development
+
+1/8/2021:
+- Finished 4th module 
