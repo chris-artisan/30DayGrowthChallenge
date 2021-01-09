@@ -14,3 +14,6 @@
 
 1/8/2021:
 - Finished 4th module 
+
+1/9/2021:
+- Started 5th module, installed tools to interact with the Ethereum API
