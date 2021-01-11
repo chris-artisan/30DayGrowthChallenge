@@ -17,3 +17,6 @@
 
 1/9/2021:
 - Started 5th module, installed tools to interact with the Ethereum API
+
+1/11/2021:
+- Continued 5th module, learned to use geth
