@@ -20,3 +20,6 @@
 
 1/11/2021:
 - Continued 5th module, learned to use geth
+
+1/12/2021:
+- Continued 5th module, learned to use web3 API 
