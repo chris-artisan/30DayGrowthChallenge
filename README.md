@@ -23,3 +23,6 @@
 
 1/12/2021:
 - Continued 5th module, learned to use web3 API 
+
+1/14/2021:
+- Started 6th module, learning truffle framework 
