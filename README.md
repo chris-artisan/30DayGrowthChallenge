@@ -26,3 +26,6 @@
 
 1/14/2021:
 - Started 6th module, learning truffle framework 
+
+1/15/2021:
+- Continued 6th module, learning truffle framework
