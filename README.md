@@ -29,3 +29,6 @@
 
 1/15/2021:
 - Continued 6th module, learning truffle framework
+
+1/18/2021:
+- Continued 6th module, learned about genache test environment
