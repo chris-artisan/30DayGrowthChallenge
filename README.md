@@ -32,3 +32,6 @@
 
 1/18/2021:
 - Continued 6th module, learned about genache test environment
+
+1/19/2021:
+- Finished 6th module, learned more testing techniques
