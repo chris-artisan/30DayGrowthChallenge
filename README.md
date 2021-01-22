@@ -35,3 +35,6 @@
 
 1/19/2021:
 - Finished 6th module, learned more testing techniques
+
+1/21/2021:
+- Started 7th module, learning advanced smart contract development
