@@ -38,3 +38,6 @@
 
 1/21/2021:
 - Started 7th module, learning advanced smart contract development
+
+1/23/2021:
+- Read through docs of a functioning Ethereum dApp called Collateral Swap
