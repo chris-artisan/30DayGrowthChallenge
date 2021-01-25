@@ -41,3 +41,7 @@
 
 1/23/2021:
 - Read through docs of a functioning Ethereum dApp called Collateral Swap
+
+1/25/2021:
+- Continue module 7, learning more advanced solidity features
+
