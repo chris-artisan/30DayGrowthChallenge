@@ -45,3 +45,5 @@
 1/25/2021:
 - Continue module 7, learning more advanced solidity features
 
+1/26/2021:
+- Continue module 7, learning more advanced solidity features
