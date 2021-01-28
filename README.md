@@ -50,3 +50,6 @@
 
 1/27/2021:
 - Read about insured.finance, a functioning smart contract application providing digital asset insurance
+
+1/28/2021:
+- Continue module 7, learning more advanced solidity features
