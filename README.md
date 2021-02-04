@@ -59,3 +59,6 @@
 
 2/2/2021:
 - Start module 8, web applications with Ethereum
+
+2/3/2021:
+- Continue module 8, web applications with Ethereum
