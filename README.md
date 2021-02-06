@@ -62,3 +62,6 @@
 
 2/3/2021:
 - Continue module 8, web applications with Ethereum
+
+2/5/2021:
+- Finish course
